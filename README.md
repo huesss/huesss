@@ -1,4 +1,4 @@
-Hi 👋 im koszka
+Hi 👋 im Huess
 =======================
 
 BackEnd | FrontEnd Developer
