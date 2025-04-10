@@ -52,8 +52,7 @@ Coding since 2022. I excel at PHP and primarily work with it, occasionally using
 - 📫 Email: tech@scpsfgame.ru
 - 🌐 Website: coming soon, probably
 
-#RU 
-
+# EN
 # 👋 Привет, я Huess!
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/huesss)
