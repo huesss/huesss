@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Huess!
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/huesss)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/c/scpsf)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@scpsf)
 
 ## 💻 Fullstack Developer
 
@@ -56,7 +56,7 @@ Coding since 2022. I excel at PHP and primarily work with it, occasionally using
 # 👋 Привет, я Huess!
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/huesss)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/c/scpsf)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@scpsf)
 
 ## 💻 Фулстек разработчик
 
