@@ -25,7 +25,6 @@ Coding since 2022. I excel at PHP and primarily work with it, occasionally using
 
 ### Other:
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## 🚀 Projects
