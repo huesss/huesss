@@ -46,8 +46,6 @@ working as **lead developer**, **patreon manager** and **technical support** for
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huesss&layout=compact&theme=radical&hide_border=true"/>
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=huesss&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
 ---
 
 ## 📫 Hit me up
@@ -98,8 +96,6 @@ working as **lead developer**, **patreon manager** and **technical support** for
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huesss&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huesss&layout=compact&theme=radical&hide_border=true"/>
 </a>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=huesss&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
