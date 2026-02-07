@@ -1,106 +1,109 @@
-# EN
-# 👋 Hi, I'm Huess!
+# hey, i'm kaszara 👋
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/huesss)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@scpsf)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huesss)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@scpsf)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
-## 💻 Fullstack Developer
+---
 
-Coding since 2022. I excel at PHP and primarily work with it, occasionally using TypeScript, Rust and other languages. I develop plugins for SCP: Secret Laboratory (rarely but consistently), and worked on RAGE MP projects until 2023.
+## 💻 Who am i
 
-## 🔥 My Tech Stack
+fullstack dev since 2022. started with web development and quickly fell in love with backend stuff. mainly do **PHP** but also mess around with typescript, rust, c# and whatever else catches my interest. right now mostly into web stuff and game dev.
 
-### Frontend:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+i enjoy building things from scratch, optimizing performance, and making user interfaces that actually feel good to use. always learning something new whether it's a new framework, language, or just a better way to write code.
 
-### Backend:
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+working as **lead developer**, **patreon manager** and **technical support** for **SCP: Secret Facility** a fan-made horror game based on SCP Foundation. i build the website, make cool css animations, handle backend logic, manage patreon rewards and community, provide tech support for players and try to make everything look nice on any device.
 
-### Other:
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+---
 
-## 🚀 Projects
+## 🛠️ What i use
 
-- **SCP: Secret Facility** - website for a fan game with cool CSS animations and stuff
-- **SCP: SL Plugins** - occasionally developing plugins for SCP: Secret Laboratory
-- **RAGE MP Projects** - worked on multiplayer GTA V projects until 2023
-- **[Hidden Code]** - something secret I'm working on right now
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
+---
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=huesss&show_icons=true&theme=radical)
+## 🚀 Stuff i made
 
-## 🔍 What I'm Into
+| project | what is it |
+|---------|------------|
+| **SCP: Secret Facility** | website for the game. custom animations, responsive, community features. the game is a horror experience in SCP universe |
+| **SCP: SL Plugins** | plugins for SCP: Secret Laboratory |
 
-- Web development and all that jazz
-- PHP frameworks and backend solutions
-- Game dev (someday I'll finish my game)
-- Cyberpunk, technology and other cool shit
+---
 
-## 💬 Contact
+## 📊 Stats
 
-- 💬 Discord: hu_es
-- 📫 Email: tech@scpsfgame.ru
-- 🌐 Website: coming soon, probably
+<a href="https://github.com/huesss">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huesss&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huesss&layout=compact&theme=radical&hide_border=true"/>
+</a>
 
-# RU
-# 👋 Привет, я Huess!
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=huesss&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/huesss)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@scpsf)
+---
 
-## 💻 Фулстек разработчик
+## 📫 Hit me up
 
-Кодю с 2022 года. Отлично пишу на PHP и в основном использую его, иногда также работаю с TypeScript, Rust и другими языками. Разрабатываю плагины для SCP: Secret Laboratory (редко, но пишу), до 2023 года занимался разработкой проектов на RAGE MP.
+[![Discord](https://img.shields.io/badge/hu__es-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
+[![Email](https://img.shields.io/badge/tech@scpsfgame.ru-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tech@scpsfgame.ru)
 
-## 🔥 Мой стек
+---
 
-### Фронтенд:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+# 🇷🇺 на русском
 
-### Бэкенд:
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+## 💻 Кто я
 
-### Прочее:
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+фулстек разраб с 2022. начинал с веб-разработки и быстро влюбился в бэкенд. в основном пишу на **PHP**, но также юзаю typescript, rust, c# и всё что интересно. сейчас больше в вебе и игровых проектах.
 
-## 🚀 Проекты
+люблю создавать вещи с нуля, оптимизировать производительность и делать интерфейсы, которыми реально приятно пользоваться. постоянно учусь чему-то новому будь то новый фреймворк, язык или просто лучший способ писать код.
 
-- **SCP: Secret Facility** - веб-сайт для игры. Web Developer SCP: Secret Facility
-- **SCP: SL Плагины** - периодически разрабатываю плагины для SCP: Secret Laboratory
-- **RAGE MP Проекты** - работал над проектами мультиплеера GTA V до 2023 года
-- **[Скрытый код]** - тут что-то секретное, над чем я сейчас работаю
+работаю **главным разработчиком**, **патреон менеджером** и **тех. поддержкой** в **SCP: Secret Facility** фанатский хоррор по вселенной SCP. делаю сайт, пилю css-анимации, занимаюсь бэкенд логикой, управляю патреоном и наградами, помогаю игрокам с техническими проблемами и слежу чтобы всё норм выглядело на любых устройствах.
 
-## 📊 GitHub статистика
+---
 
-![Моя GitHub статистика](https://github-readme-stats.vercel.app/api?username=huesss&show_icons=true&theme=radical)
+## 🛠️ Чем пользуюсь
 
-## 🔍 Чем я интересуюсь
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-- Веб-разработка и всё такое
-- PHP фреймворки и бэкенд-решения
-- Геймдев (когда-нибудь доделаю свою игру)
-- Киберпанк, технологии и прочая хрень
+---
 
-## 💬 Связь
+## 🚀 Мои проекты
 
-- 💬 Discord: hu_es
-- 📫 Email: tech@scpsfgame.ru
-- 🌐 Сайт: скоро будет, наверное 
+| проект | описание |
+|--------|----------|
+| **SCP: Secret Facility** | сайт для игры. кастомные анимации, адаптив, интеграция с комьюнити |
+| **SCP: SL Плагины** | плагины для SCP: Secret Laboratory |
+
+---
+
+## 📊 Стата
+
+<a href="https://github.com/huesss">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huesss&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huesss&layout=compact&theme=radical&hide_border=true"/>
+</a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=huesss&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+## 📫 связь
+
+[![Discord](https://img.shields.io/badge/hu__es-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
+[![Email](https://img.shields.io/badge/tech@scpsfgame.ru-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tech@scpsfgame.ru)
