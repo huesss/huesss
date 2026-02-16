@@ -34,8 +34,7 @@ working as **lead developer**, **patreon manager** and **technical support** for
 
 | project | what is it |
 |---------|------------|
-| **SCP: Secret Facility** | website for the game. custom animations, responsive, community features. the game is a horror experience in SCP universe |
-| **SCP: SL Plugins** | plugins for SCP: Secret Laboratory |
+| **SCP: Secret Facility** | Lead Programmer, Patreon Manager, Web Designer & Developer Main developer responsible for game architecture and official website. Managing Patreon operations and project administration. Technical Support Manager and Chaos Debugger in charge of system stability. Core contributor to Lore Design, Server Verification, QA Testing, and Ancient Directives Team Lead. |
 
 ---
 
