@@ -22,10 +22,14 @@
 ---
 
 ## 📊 Stats
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=huesss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<a href="https://github.com/huesss">
-  <img height="179em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huesss&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="179em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huesss&layout=compact&theme=radical&hide_border=true"/>
-</a>
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=huesss&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+</p>
+
+<p align="center">
+  <img width="98%" src="https://streak-stats.demolab.com?user=huesss&theme=tokyonight&hide_border=true&background=00000000"/>
+</p>
 
 ---
