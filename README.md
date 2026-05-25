@@ -1,4 +1,4 @@
-# hey, i'm kaszara 👋
+# im kaszara 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huesss)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@scpsf)
@@ -6,17 +6,7 @@
 
 ---
 
-## 💻 Who am i
-
-fullstack dev since 2022. started with web development and quickly fell in love with backend stuff. mainly do **PHP** but also mess around with typescript, rust, c# and whatever else catches my interest. right now mostly into web stuff and game dev.
-
-i enjoy building things from scratch, optimizing performance, and making user interfaces that actually feel good to use. always learning something new whether it's a new framework, language, or just a better way to write code.
-
-working as **lead developer**, **patreon manager** and **technical support** for **SCP: Secret Facility** a fan-made horror game based on SCP Foundation. i build the website, make cool css animations, handle backend logic, manage patreon rewards and community, provide tech support for players and try to make everything look nice on any device.
-
----
-
-## 🛠️ What i use
+## 🛠️ My stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -30,26 +20,11 @@ working as **lead developer**, **patreon manager** and **technical support** for
 
 ---
 
-## 🚀 Stuff i made
-
-| project | what is it |
-|---------|------------|
-| **SCP: Secret Facility** | Lead Programmer, Patreon Manager, Web Designer & Developer Main developer responsible for game architecture and official website. Managing Patreon operations and project administration. Technical Support Manager and Chaos Debugger in charge of system stability. Core contributor to Lore Design, Server Verification, QA Testing, and Ancient Directives Team Lead. |
-
----
-
 ## 📊 Stats
 
 <a href="https://github.com/huesss">
   <img height="179em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huesss&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
   <img height="179em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huesss&layout=compact&theme=radical&hide_border=true"/>
 </a>
-
----
-
-## 📫 Hit me up
-
-[![Discord](https://img.shields.io/badge/hu__es-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
-[![Email](https://img.shields.io/badge/tech@scpsfgame.ru-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tech@scpsfgame.ru)
 
 ---
