@@ -9,15 +9,15 @@
 
 ## 🛠️ My stack
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PHP](https://shieldcn.dev/badge/PHP-777BB4?logo=php\&color=777BB4\&variant=secondary)
+![TypeScript](https://shieldcn.dev/badge/TypeScript-3178C6?logo=typescript\&color=3178C6\&variant=secondary)
+![JavaScript](https://shieldcn.dev/badge/JavaScript-F7DF1E?logo=javascript\&color=F7DF1E\&logoColor=black\&variant=secondary)
+![Vue.js](https://shieldcn.dev/badge/Vue.js-4FC08D?logo=vuedotjs\&color=4FC08D\&variant=secondary)
+![Node.js](https://shieldcn.dev/badge/Node.js-339933?logo=nodedotjs\&color=339933\&variant=secondary)
+![Python](https://shieldcn.dev/badge/Python-3776AB?logo=python\&color=3776AB\&variant=secondary)
+![Rust](https://shieldcn.dev/badge/Rust-000000?logo=rust\&color=000000\&variant=secondary)
+![C%23](https://shieldcn.dev/badge/C%23-239120?logo=C#\&color=239120\&variant=secondary)
+![C%2B%2B](https://shieldcn.dev/badge/C%2B%2B-00599C?logo=cplusplus\&color=00599C\&variant=secondary)
 
 ---
 
