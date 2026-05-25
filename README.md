@@ -1,8 +1,9 @@
 # im kaszara 👋
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huesss)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@scpsf)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/scpsf)
+[![GitHub](https://shieldcn.dev/badge/GitHub-100000?logo=github)](https://github.com/huesss)
+[![YouTube](https://shieldcn.dev/badge/YouTube-FF0000?logo=youtube\&color=FF0000)](https://youtube.com/@scpsf)
+[![Discord](https://shieldcn.dev/badge/Discord-5865F2?logo=discord\&color=5865F2)](https://dsc.gg/scpsf)
+
 
 ---
 
