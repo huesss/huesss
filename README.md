@@ -1,35 +1,45 @@
-# im kaszara 👋
-
-[![GitHub](https://shieldcn.dev/badge/GitHub-100000?logo=github)](https://github.com/huesss)
-[![YouTube](https://shieldcn.dev/badge/YouTube-FF0000?logo=youtube\&color=FF0000)](https://youtube.com/@scpsf)
-[![Discord](https://shieldcn.dev/badge/Discord-5865F2?logo=discord\&color=5865F2)](https://dsc.gg/scpsf)
-
-
----
-
-## 🛠️ My stack
-
-![PHP](https://shieldcn.dev/badge/PHP-777BB4?logo=php\&color=777BB4\&variant=secondary)
-![TypeScript](https://shieldcn.dev/badge/TypeScript-3178C6?logo=typescript\&color=3178C6\&variant=secondary)
-![JavaScript](https://shieldcn.dev/badge/JavaScript-F7DF1E?logo=javascript\&color=F7DF1E\&logoColor=black\&variant=secondary)
-![Vue.js](https://shieldcn.dev/badge/Vue.js-4FC08D?logo=vuedotjs\&color=4FC08D\&variant=secondary)
-![Node.js](https://shieldcn.dev/badge/Node.js-339933?logo=nodedotjs\&color=339933\&variant=secondary)
-![Python](https://shieldcn.dev/badge/Python-3776AB?logo=python\&color=3776AB\&variant=secondary)
-![Rust](https://shieldcn.dev/badge/Rust-000000?logo=rust\&color=000000\&variant=secondary)
-![C%23](https://shieldcn.dev/badge/C%23-239120?logo=C#\&color=239120\&variant=secondary)
-![C%2B%2B](https://shieldcn.dev/badge/C%2B%2B-00599C?logo=cplusplus\&color=00599C\&variant=secondary)
-
----
-
-## 📊 Stats
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=huesss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=huesss&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+  <img src="banner.svg" alt="kaszara — systems, graphics, desktop software" width="100%">
 </p>
 
 <p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=huesss&theme=tokyonight&hide_border=true&background=00000000"/>
+  <a href="https://youtube.com/@scpsf"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-@scpsf-0d1117?style=flat-square&logo=youtube&logoColor=white&labelColor=0d1117&color=30363d"></a>
+  <a href="https://dsc.gg/scpsf"><img alt="Discord" src="https://img.shields.io/badge/Discord-dsc.gg%2Fscpsf-0d1117?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117&color=30363d"></a>
 </p>
 
----
+<img src="divider.svg" alt="" width="100%">
+
+## About
+
+- I write **C/C++ and Rust**: graphics, physics simulations and native desktop apps.
+- On the web side I work with **TypeScript, Vue, Node.js and PHP**.
+- I like projects where performance and visuals both matter.
+
+<img src="divider.svg" alt="" width="100%">
+
+## Projects
+
+<p align="center">
+  <a href="https://github.com/huesss/atom"><img src="card-atom.svg" alt="atom — Hydrogen Quantum Orbital Visualizer" width="49%"></a>
+  <a href="https://github.com/huesss/sc-desktop-beautiful"><img src="card-sc.svg" alt="sc-desktop-beautiful — native SoundCloud client" width="49%"></a>
+</p>
+
+<img src="divider.svg" alt="" width="100%">
+
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,ts,js,php,py,cs,vue,nodejs,cmake,git&perline=12&theme=dark" alt="C, C++, Rust, TypeScript, JavaScript, PHP, Python, C#, Vue, Node.js, CMake, Git">
+</p>
+
+**Daily** — C/C++, Rust, TypeScript  
+**Also** — Vue, Node.js, PHP, Python, C#
+
+<img src="divider.svg" alt="" width="100%">
+
+## Activity
+
+<p align="center">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=huesss&show_icons=true&hide_title=true&bg_color=0d1117&border_color=30363d&text_color=9ca3af&icon_color=7dd3fc&hide=issues&card_width=480">
+  <img height="165" alt="Top languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=huesss&layout=compact&hide_title=true&bg_color=0d1117&border_color=30363d&text_color=9ca3af&langs_count=6&card_width=480">
+</p>
