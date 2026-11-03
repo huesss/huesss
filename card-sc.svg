@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="200" viewBox="0 0 590 200" role="img" aria-label="SC Desktop Beautiful — native SoundCloud client">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#1a1220"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#f472b6" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#f472b6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="589" height="199" rx="14" fill="url(#bg)" stroke="#30363d"/>
+  <circle cx="510" cy="62" r="80" fill="url(#glow)"/>
+
+  <!-- equalizer -->
+  <g fill="#f472b6" fill-opacity="0.9">
+    <rect x="478" y="40" width="7" height="44" rx="3.5">
+      <animate attributeName="y" values="58;34;52;40;58" dur="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="26;50;32;44;26" dur="1.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="493" y="40" width="7" height="44" rx="3.5">
+      <animate attributeName="y" values="34;56;38;60;34" dur="1.3s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="50;28;46;24;50" dur="1.3s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="508" y="40" width="7" height="44" rx="3.5">
+      <animate attributeName="y" values="48;30;56;36;48" dur="1.9s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="36;54;28;48;36" dur="1.9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="523" y="40" width="7" height="44" rx="3.5">
+      <animate attributeName="y" values="60;38;54;32;60" dur="1.45s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="24;46;30;52;24" dur="1.45s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="538" y="40" width="7" height="44" rx="3.5">
+      <animate attributeName="y" values="42;58;34;50;42" dur="1.75s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="42;26;50;34;42" dur="1.75s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <text x="28" y="54" font-family="'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="26" font-weight="700" fill="#f0f6fc">sc-desktop-beautiful</text>
+  <text x="28" y="84" font-family="Inter,'Segoe UI',system-ui,-apple-system,sans-serif" font-size="16" fill="#c9d1d9">Native SoundCloud client with a glass UI</text>
+  <text x="28" y="116" font-family="Inter,'Segoe UI',system-ui,-apple-system,sans-serif" font-size="14" fill="#8b949e">No ads, no captcha. Equalizer, lyrics, Discord Rich Presence,</text>
+  <text x="28" y="137" font-family="Inter,'Segoe UI',system-ui,-apple-system,sans-serif" font-size="14" fill="#8b949e">offline likes. Windows, Linux and macOS builds.</text>
+
+  <g font-family="'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#c9d1d9">
+    <rect x="28" y="154" width="56" height="24" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="56" y="170" text-anchor="middle">Rust</text>
+    <rect x="92" y="154" width="62" height="24" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="123" y="170" text-anchor="middle">Tauri 2</text>
+    <rect x="162" y="154" width="86" height="24" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="205" y="170" text-anchor="middle">React 19</text>
+    <rect x="256" y="154" width="48" height="24" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="280" y="170" text-anchor="middle">MIT</text>
+  </g>
+  <text x="562" y="170" text-anchor="end" font-family="Inter,'Segoe UI',system-ui,-apple-system,sans-serif" font-size="12" fill="#6e7681">fork of zxcloli666/SoundCloud-Desktop</text>
+</svg>

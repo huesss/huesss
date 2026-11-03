@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="200" viewBox="0 0 590 200" role="img" aria-label="atom — Hydrogen Quantum Orbital Visualizer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7dd3fc" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#7dd3fc" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="589" height="199" rx="14" fill="url(#bg)" stroke="#30363d"/>
+  <circle cx="500" cy="62" r="80" fill="url(#glow)"/>
+
+  <g transform="translate(500 62)">
+    <ellipse rx="44" ry="15" fill="none" stroke="#7dd3fc" stroke-opacity="0.45"/>
+    <ellipse rx="44" ry="15" fill="none" stroke="#a5b4fc" stroke-opacity="0.45" transform="rotate(60)"/>
+    <ellipse rx="44" ry="15" fill="none" stroke="#a5b4fc" stroke-opacity="0.45" transform="rotate(120)"/>
+    <circle r="3.5" fill="#7dd3fc">
+      <animateMotion dur="5s" repeatCount="indefinite" path="M44,0 A44,15 0 1,1 -44,0 A44,15 0 1,1 44,0"/>
+    </circle>
+    <circle r="3.5" fill="#f0f6fc" transform="rotate(60)">
+      <animateMotion dur="7s" repeatCount="indefinite" path="M44,0 A44,15 0 1,1 -44,0 A44,15 0 1,1 44,0"/>
+    </circle>
+    <circle r="4" fill="#f0f6fc"/>
+  </g>
+
+  <text x="28" y="54" font-family="'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="26" font-weight="700" fill="#f0f6fc">atom</text>
+  <text x="28" y="84" font-family="Inter,'Segoe UI',system-ui,-apple-system,sans-serif" font-size="16" fill="#c9d1d9">Hydrogen Quantum Orbital Visualizer</text>
+  <text x="28" y="116" font-family="Inter,'Segoe UI',system-ui,-apple-system,sans-serif" font-size="14" fill="#8b949e">Samples r, θ, φ from quantum numbers (n, l, m)</text>
+  <text x="28" y="137" font-family="Inter,'Segoe UI',system-ui,-apple-system,sans-serif" font-size="14" fill="#8b949e">via the Schrödinger equation. 2D, real-time and raytraced.</text>
+
+  <g font-family="'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#c9d1d9">
+    <rect x="28" y="154" width="64" height="24" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="60" y="170" text-anchor="middle">C / C++</text>
+    <rect x="100" y="154" width="72" height="24" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="136" y="170" text-anchor="middle">OpenGL</text>
+    <rect x="180" y="154" width="66" height="24" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="213" y="170" text-anchor="middle">CMake</text>
+  </g>
+</svg>
